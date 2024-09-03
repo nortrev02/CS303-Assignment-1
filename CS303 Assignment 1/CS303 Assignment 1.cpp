@@ -9,14 +9,16 @@ int main()
 {
     ifstream inputFile("A1input.txt");
     string inputString = "";
+    int inputArray[100];
     int inputCount = 0;
-    while (inputFile.is_open()) {
+    while (inputFile.is_open()) { // This while loop fills the array with the input values.
         inputFile >> inputString;
+        cout << inputString;
+        inputArray[inputCount] = stoi(inputString);
+        inputString = "";
         inputCount++;
-        cout << inputCount;
         if (inputFile.eof()) {
             break;
         }
     }
-    cout << "Hello World!\n";
 }

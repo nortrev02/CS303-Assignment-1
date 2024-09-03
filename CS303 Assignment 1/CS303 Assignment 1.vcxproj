@@ -134,7 +134,7 @@
     <ClInclude Include="ArrayFunctionsTN.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Downloads\A1input.txt" />
+    <Text Include="A1input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

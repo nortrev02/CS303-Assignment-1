@@ -14,6 +14,9 @@ int main()
         inputFile >> inputString;
         inputCount++;
         cout << inputCount;
+        if (inputFile.eof()) {
+            break;
+        }
     }
     cout << "Hello World!\n";
 }

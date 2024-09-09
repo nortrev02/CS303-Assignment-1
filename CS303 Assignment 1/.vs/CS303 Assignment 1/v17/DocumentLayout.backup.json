@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\",
+  "WorkspaceRootPath": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\CS303 Assignment 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|solutionrelative:CS303 Assignment 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|solutionrelative:ArrayFunctionsTN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|solutionrelative:ArrayFunctionsTN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\CS303 Assignment 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0C8A255-A49D-4A98-8FD8-5CBF1BA3B5D3}|CS303 Assignment 1.vcxproj|solutionrelative:CS303 Assignment 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +26,44 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ArrayFunctionsTN.h",
-              "DocumentMoniker": "C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.h",
+              "DocumentMoniker": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.h",
               "RelativeDocumentMoniker": "ArrayFunctionsTN.h",
-              "ToolTip": "C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.h",
+              "ToolTip": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.h",
               "RelativeToolTip": "ArrayFunctionsTN.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-30T06:27:27.093Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ArrayFunctionsTN.cpp",
-              "DocumentMoniker": "C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.cpp",
+              "DocumentMoniker": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.cpp",
               "RelativeDocumentMoniker": "ArrayFunctionsTN.cpp",
-              "ToolTip": "C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.cpp",
-              "RelativeToolTip": "ArrayFunctionsTN.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.cpp*",
+              "RelativeToolTip": "ArrayFunctionsTN.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-30T06:28:25.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CS303 Assignment 1.cpp",
-              "DocumentMoniker": "C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\CS303 Assignment 1.cpp",
+              "DocumentMoniker": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\CS303 Assignment 1.cpp",
               "RelativeDocumentMoniker": "CS303 Assignment 1.cpp",
-              "ToolTip": "C:\\Users\\Trevor\\Documents\\School Projects\\CS303-Assignment-1\\CS303 Assignment 1\\CS303 Assignment 1.cpp*",
+              "ToolTip": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\CS303 Assignment 1.cpp*",
               "RelativeToolTip": "CS303 Assignment 1.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-30T06:26:09.653Z",
               "EditorCaption": ""

@@ -21,4 +21,8 @@ int main()
             break;
         }
     }
+    inputFile.close();
+    while (true) {// main loop the user interacts with
+        cout << "lmao";
+    }
 }

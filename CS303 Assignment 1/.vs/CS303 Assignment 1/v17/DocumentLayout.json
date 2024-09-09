@@ -25,10 +25,6 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ArrayFunctionsTN.h",
@@ -36,9 +32,15 @@
               "RelativeDocumentMoniker": "ArrayFunctionsTN.h",
               "ToolTip": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.h",
               "RelativeToolTip": "ArrayFunctionsTN.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-30T06:27:27.093Z"
+              "WhenOpened": "2024-08-30T06:27:27.093Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -48,9 +50,10 @@
               "RelativeDocumentMoniker": "ArrayFunctionsTN.cpp",
               "ToolTip": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\ArrayFunctionsTN.cpp",
               "RelativeToolTip": "ArrayFunctionsTN.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-30T06:28:25.041Z"
+              "WhenOpened": "2024-08-30T06:28:25.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +63,7 @@
               "RelativeDocumentMoniker": "CS303 Assignment 1.cpp",
               "ToolTip": "C:\\Users\\starf\\Documents\\School Assignments\\CS303-Assignment-1\\CS303 Assignment 1\\CS303 Assignment 1.cpp",
               "RelativeToolTip": "CS303 Assignment 1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-30T06:26:09.653Z",
               "EditorCaption": ""

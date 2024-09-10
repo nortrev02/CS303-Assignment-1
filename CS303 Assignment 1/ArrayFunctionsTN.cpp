@@ -16,12 +16,12 @@ void modify(int input[], int index, int newValue) {
 	if (index < sizeof(input) - 1) {//Verifies the index is valid.
 		oldValue = input[index];
 		input[index] = newValue;
+		cout << "Old Value: " << oldValue << "\n";
+		cout << "New Value: " << newValue << "\n";
 	}
 	else {//Throws an exception if the index isn't valid.
 		//throw
 	}
-	cout << "Old Value: " << oldValue << "\n";
-	cout << "New Value: " << newValue << "\n";
  }
 
 void append(int input[], int newAddition) {
@@ -34,10 +34,22 @@ void append(int input[], int newAddition) {
 }
 
 void erase(int input[], int index) {
+	int newArray[sizeof(input) - 1];
 	if (index < sizeof(input) - 1) {//Verifies the index is valid.
-		
+		for (int i = 0; i < sizeof(input); i++) {
+			if (i != index) {
+				newArray[i] = input[i];
+			}
+		}
+		input = newArray;
 	}
 	else {//Throws an exception if the index isn't valid.
 		//throw
+	}
+}
+
+void printArray(int input[]) { // used for debugging
+	for (int i = 0; i < sizeof(input); i++) {
+		cout << input[i] << ' ';
 	}
 }

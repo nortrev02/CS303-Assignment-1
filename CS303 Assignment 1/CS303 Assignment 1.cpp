@@ -22,7 +22,13 @@ int main()
         }
     }
     inputFile.close();
+    char choice;
     while (true) {// main loop the user interacts with
         cout << "lmao";
+        cin >> choice;
+        switch(choice) {
+        case 'a':
+            int target = 0;
+            cin >> target;
     }
 }

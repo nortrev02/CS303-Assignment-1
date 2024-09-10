@@ -16,7 +16,7 @@ void searchInput(int input[], int target, int size) {//returns index of the arra
 void modify(int input[], int index, int newValue, int size) { // A function that can modify the value of an integer when called with the index of the integer in the array and return the new value and old value back to the user.
 	int oldValue;
 	try {
-		if (index < size - 1 && index <= 0) {//Verifies the index is valid.
+		if (index < size - 1 && index >= 0) {//Verifies the index is valid.
 			oldValue = input[index];
 			input[index] = newValue;
 			cout << "Old Value: " << oldValue << "\n";

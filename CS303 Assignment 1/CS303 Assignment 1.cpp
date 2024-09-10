@@ -9,8 +9,8 @@ using namespace std;
 int main()
 {
     ifstream inputFile("A1input.txt");
-    int inputArray[100]{};
     int size = 100;
+    int* inputArray = new int[size];
     int inputCount = 0;
     while (inputFile.is_open()) { // This while loop fills the array with the input values.
         string inputString = "";
@@ -68,6 +68,5 @@ int main()
             cout << "Input not valid. Try again.\n";
             break;
         }
-        printArray(inputArray, size);
     }
 }
